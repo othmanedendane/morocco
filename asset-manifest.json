@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/morocco/static/css/main.dc9eb244.css",
+    "main.js": "/morocco/static/js/main.5380744c.js",
+    "static/media/five.mp3": "/morocco/static/media/five.f1077ed9879580f6de5e.mp3",
+    "static/media/espagne.jpg": "/morocco/static/media/espagne.6a4c521cab27b19d20b8.jpg",
+    "static/media/morocco.jpg": "/morocco/static/media/morocco.89daf19b9d9ad92c871f.jpg",
+    "static/media/man_banner.png": "/morocco/static/media/man_banner.25f7c77ce567c5eb7001.png",
+    "static/media/fed.png": "/morocco/static/media/fed.e6e0034a07bc3498543f.png",
+    "static/media/celebration.jpg": "/morocco/static/media/celebration.931abdcbe82d87234966.jpg",
+    "static/media/bono.jpeg": "/morocco/static/media/bono.93aae6e74e075e362ab7.jpeg",
+    "static/media/wins.jpg": "/morocco/static/media/wins.95d1bdc989341e2bd5e4.jpg",
+    "static/media/iconic.jpg": "/morocco/static/media/iconic.edd1994191360b776fa7.jpg",
+    "static/media/puma.png": "/morocco/static/media/puma.670909fb82ba31a2629d.png",
+    "static/media/hit.png": "/morocco/static/media/hit.24bcaf4c584168a83949.png",
+    "static/media/adidas.png": "/morocco/static/media/adidas.cb1e3e5066d97cae8bb4.png",
+    "static/media/mdjs.png": "/morocco/static/media/mdjs.aa2d83a276c02af25c36.png",
+    "static/media/web_design.svg": "/morocco/static/media/web_design.64ce394eb13ad5c76b6dc8d6738a85a8.svg",
+    "static/media/f.png": "/morocco/static/media/f.6469cc4868d175d5e4cf.png",
+    "static/media/arrow.svg": "/morocco/static/media/arrow.2c4ebdb68734f30e2be1.svg",
+    "static/media/accaro.svg": "/morocco/static/media/accaro.49e372eedc5802bab5d3.svg",
+    "static/media/development.svg": "/morocco/static/media/development.8b9af5b3205bea3ea354c11e10ecaf0d.svg",
+    "static/media/pattern.svg": "/morocco/static/media/pattern.44764ee72c7925881c43.svg",
+    "static/media/uiux_design.svg": "/morocco/static/media/uiux_design.f06e93192398348aa0d79fca6a2d821f.svg",
+    "static/media/ornament.svg": "/morocco/static/media/ornament.19618aded6ac59feaf74.svg",
+    "index.html": "/morocco/index.html",
+    "static/media/blob.svg": "/morocco/static/media/blob.40c12e22448972c8c003.svg",
+    "static/media/rope.svg": "/morocco/static/media/rope.04a454a676ffade5a5e1.svg",
+    "static/media/mor.svg": "/morocco/static/media/mor.5eea1de50913abe2e64b19a6110907c1.svg",
+    "main.dc9eb244.css.map": "/morocco/static/css/main.dc9eb244.css.map",
+    "main.5380744c.js.map": "/morocco/static/js/main.5380744c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc9eb244.css",
+    "static/js/main.5380744c.js"
+  ]
+}
