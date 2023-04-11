@@ -12,18 +12,18 @@ import Service2Icon from './assets/img/services/web_design.svg';
 import Service3Icon from './assets/img/services/development.svg';
 
 // brands images
-import Brand1Image from './assets/img/brands/behance.svg';
-import Brand2Image from './assets/img/brands/google.svg';
-import Brand3Image from './assets/img/brands/dribbble.svg';
-import Brand4Image from './assets/img/brands/uplabs.svg';
-import Brand5Image from './assets/img/brands/99designs.svg';
+import Brand1Image from './assets/img/brands/puma.png';
+import Brand2Image from './assets/img/brands/f.png';
+import Brand3Image from './assets/img/brands/adidas.png';
+import Brand4Image from './assets/img/brands/mdjs.png';
+import Brand5Image from './assets/img/brands/hit.png';
 
 // portfolio images
-import PortfolioImage1 from './assets/img/portfolio/p1.jpg';
-import PortfolioImage2 from './assets/img/portfolio/p2.jpg';
-import PortfolioImage3 from './assets/img/portfolio/p3.jpg';
-import PortfolioImage4 from './assets/img/portfolio/p4.jpg';
-import PortfolioImage5 from './assets/img/portfolio/p5.jpg';
+import PortfolioImage1 from './assets/img/portfolio/morocco.jpg';
+import PortfolioImage2 from './assets/img/portfolio/wins.jpg';
+import PortfolioImage3 from './assets/img/portfolio/bono.jpeg';
+import PortfolioImage4 from './assets/img/portfolio/iconic.jpg';
+import PortfolioImage5 from './assets/img/portfolio/celebration.jpg';
 
 // nav
 export const nav = [
@@ -34,16 +34,16 @@ export const nav = [
     name: 'about',
   },
   {
-    name: 'services',
+    name: 'réalisations',
   },
   {
-    name: 'contributors',
+    name: 'sponsors',
   },
   {
-    name: 'portfolio',
+    name: 'catalogue',
   },
   {
-    name: 'contact',
+    name: 'appréciation',
   },
 ];
 
@@ -51,62 +51,62 @@ export const nav = [
 export const social = [
   {
     icon: <RiYoutubeFill />,
-    href: '',
+    href: 'https://www.youtube.com/@federationroyalemarocained3087',
   },
   {
     icon: <RiInstagramFill />,
-    href: '',
+    href: 'https://www.instagram.com/equipedumaroc/',
   },
   {
     icon: <RiGithubFill />,
-    href: '',
+    href: 'https://github.com/othmanedendane',
   },
   {
     icon: <RiLinkedinFill />,
-    href: '',
+    href: 'https://www.linkedin.com/in/othmane-dendane-55a26815b/',
   },
 ];
 
 // about
 export const about = {
-  title: 'About me',
+  title: 'About Us',
   subtitle:
-    "I'm Justin Vaccaro and i do web design, Graphic Design, User Experiences. habitant et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet.",
+    "L'équipe nationale marocaine a été fondée en 1955 et est considérée comme l'une des équipes nationales les plus réussies en Afrique, avec plusieurs réalisations au fil des ans. Elle est réputée pour les compétences de ses joueurs, la force de son équipe et son long historique de participation à des tournois internationaux, dont la Coupe du Monde et la Coupe d'Afrique des Nations.",
   image: '',
 };
 
 // services
 export const services = {
-  title: 'Services',
+  title: 'Réalisations',
   subtitle:
-    'Our team members are experts in all facets of the design industry including: print design, illustration, branding, identity and more.',
+    "L'équipe nationale marocaine est considérée comme l'une des équipes les plus puissantes en Afrique.",
   skills: [
     {
       icon: Service1Icon,
-      name: 'UI/UX Design',
+      name: 'Classement FIFA',
       description:
-        "Why money's in that office, right If she start giving me some bullshit about it ain't there someplace or anywhere.",
+        "Le Maroc se hissera à la 11e place du classement mondial de la FIFA. Grâce au parcours historique des Lions de l'Atlas en Coupe du monde 2022 au Qatar, le Maroc devra gagner 11 places et réaliser l'avancée la plus importante du classement FIFA des sélections nationales.",
     },
     {
       icon: Service2Icon,
-      name: 'Web Design',
+      name: 'Coupe du monde',
       description:
-        "Why money's in that office, right If she start giving me some bullshit about it ain't there someplace or anywhere.",
+        "Coupe du monde 2022 : Le Maroc a écrit l’histoire et ouvre une nouvelle ère pour le football africain. Pour la première fois de l'histoire, une nation africaine termine dans le top 4 de la Coupe du monde après une demi-finale historique.",
     },
     {
       icon: Service3Icon,
-      name: 'WP Developing',
+      name: "Coupe d'afrique",
       description:
-        "Why money's in that office, right If she start giving me some bullshit about it ain't there someplace or anywhere.",
+        "La Coupe d'Afrique des Nations 1967 était la deuxième édition du tournoi de football continental africain, qui s'est déroulée au Kenya. L'équipe nationale du Maroc a remporté la compétition et a réalisé une performance remarquable lors de ce tournoi.",
     },
   ],
 };
 
 // contributors
 export const contributors = {
-  title: 'Contributors',
+  title: 'Sponsors',
   subtitle:
-    'They support products that simplify and automate decent mechanic processes saving time for activities.',
+    'Nous sommes ravis de compter sur le généreux soutien de nos sponsors, qui ont contribué de manière significative à ces réalisation.',
   brands: [
     {
       image: Brand1Image,
@@ -128,8 +128,8 @@ export const contributors = {
 
 // portfolio
 export const portfolio = {
-  preTitle: 'Our Regular Updated',
-  title: 'Portfolio.',
+  preTitle: "Joueurs professionnels évoluant dans différentes ligues à travers le monde.",
+  title: 'Catalogue.',
   image1: PortfolioImage1,
   image2: PortfolioImage2,
   image3: PortfolioImage3,
@@ -139,7 +139,7 @@ export const portfolio = {
 
 // contact
 export const contact = {
-  title: 'Contact.',
+  title: 'Merci.',
   subtitle:
-    'Truth is a deep kindness that teaches us to be content in our everyday life and share with the people the same happiness. the feeling of sunday is the same everywhere: heavy, melancholy, standing still..',
+    "Un entraîneur et son staff qualifié sont chargés de superviser l'entraînement de l'équipe nationale marocaine et de la préparer pour sa participation aux compétitions internationales, représentant ainsi le Royaume du Maroc sur la scène internationale.",
 };
